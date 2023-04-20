@@ -4,7 +4,7 @@
 
 * 📓 I’m currently attending [Per Scholas](https://perscholas.org/) a Software Engineering training program.
 
-* 📓 I took a hiatus on my studies at [Arizona State University](https://github.com/ASU) where I was pursuing a Bachelor of Science degree in Graphic Information Technology (Full-Stack Web Development)
+* 📓 I took a hiatus on my studies at [Arizona State University](https://github.com/ASU) where I was pursuing a Bachelor of Science degree in Full-Stack Web Development
 
 * 🖥️ I’m learning/working with HTML, CSS, JS & React  
 * 🌱 I’m excited to learn all things front-end and back-end. I've been using free resources online, like [Codecademy](https://github.com/Codecademy) & [FreeCodeCamp](https://github.com/freeCodeCamp), but...
