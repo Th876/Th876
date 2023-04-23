@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a prospective Software Engineer (Full-Stack)</h3>
 
-* 📓 I’m currently attending [Per Scholas](https://perscholas.org/) a Software Engineering training program.
+* 📓 I’m currently attending [Per Scholas](https://perscholas.org/), a Software Engineering training program.
 
 * 📓 I took a hiatus on my studies at [Arizona State University](https://github.com/ASU) where I was pursuing a Bachelor of Science degree in Full-Stack Web Development
 
