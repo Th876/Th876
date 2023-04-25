@@ -4,11 +4,12 @@
 
 * 📓 I’m currently attending [Per Scholas](https://perscholas.org/), a Software Engineering training program.
 
-* 📓 I took a hiatus on my studies at [Arizona State University](https://github.com/ASU) where I was pursuing a Bachelor of Science degree in Full-Stack Web Development
+<!-- * 📓 I took a hiatus on my studies at [Arizona State University](https://github.com/ASU) where I was pursuing a Bachelor of Science degree in Full-Stack Web Development -->
 
 * 🖥️ I’m learning/working with HTML, CSS, JS & React  
 
-* 🌱 I’m excited to learn all things front-end and back-end. In my sparetime, I frequent websites such as, [Codecademy](https://github.com/Codecademy), [FreeCodeCamp](https://github.com/freeCodeCamp), and [Hackerrank](https://www.hackerrank.com/)
+* 🌱 I have a strong interest in UX/UI design and am excited to learn more about this type of engineering.
+<!-- * I’m excited to learn all things front-end and back-end. In my sparetime, I frequent websites such as, [Codecademy](https://github.com/Codecademy), [FreeCodeCamp](https://github.com/freeCodeCamp), and [Hackerrank](https://www.hackerrank.com/) -->
 
 * 👯 I’m looking to collaborate with ... *coming soon*
 * 💬 Quote I love: *“Great web design without functionality is like a sports car with no engine.”* ― Paul Cookson
