@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a prospective Software Engineer (Full-Stack)</h3>
 
-* 📓 Student at [Arizona State University](https://github.com/ASU) pursuing a Bachelor of Science degree in Full-Stack Web Development
+* 📓 Senior at [Arizona State University](https://github.com/ASU) pursuing a Bachelor of Science degree in Full-Stack Web Development
   
 * 📓 Attended [Per Scholas](https://perscholas.org/), a Software Engineering training program, where I learned the MERN stack: MongoDB, Express.js, React, Node.js
 
