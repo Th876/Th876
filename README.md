@@ -1,8 +1,8 @@
 ![Heading](ReadMeImgs/t_higginswelcomeheader.gif)
 
-<h3 align="center">I'm a prospective Software Engineer (Full-Stack)</h3>
+<h3 align="center">I'm a junior Software Engineer (Full-Stack)</h3>
 
-* 📓 Senior at [Arizona State University](https://github.com/ASU) pursuing a Bachelor of Science degree in Full-Stack Web Development
+* 📓 Recent Graduate of [Arizona State University](https://github.com/ASU). Recipient of a Bachelor of Science degree in Full-Stack Web Development
   
 * 📓 Attended [Per Scholas](https://perscholas.org/), a Software Engineering training program, where I learned the MERN stack: MongoDB, Express.js, React, Node.js
 
