@@ -2,13 +2,14 @@
 
 <h3 align="center">I'm a junior Software Engineer (Full-Stack)</h3>
 
-* 📓 Recent Graduate of [Arizona State University](https://github.com/ASU). Recipient of a Bachelor of Science degree in Full-Stack Web Development
+* 📓 Recent Graduate of [Arizona State University](https://github.com/ASU). Recipient of a Bachelor of Science degree in Full-Stack Web Development.
+
+* 🌱 Earned a Google UX Professional Certificate. 
   
 * 📓 Attended [Per Scholas](https://perscholas.org/), a Software Engineering training program, where I learned the MERN stack: MongoDB, Express.js, React, Node.js
 
 <!--* 🖥️ Learning MERN stack [Mongo]-->
 
-* 🌱 Earned a Google UX Professional Certificate. 
 <!-- * I’m excited to learn all things front-end and back-end. In my sparetime, I frequent websites such as, [Codecademy](https://github.com/Codecademy), [FreeCodeCamp](https://github.com/freeCodeCamp), and [Hackerrank](https://www.hackerrank.com/) -->
 
 <!--* 👯 I’m looking to collaborate with ... *coming soon*-->
