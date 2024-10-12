@@ -8,7 +8,7 @@
 
 <!--* 🖥️ Learning MERN stack [Mongo]-->
 
-* 🌱 Learning UI/UX design and am excited to learn more about this type of engineering
+* 🌱 Earned a Google UX Professional Certificate. 
 <!-- * I’m excited to learn all things front-end and back-end. In my sparetime, I frequent websites such as, [Codecademy](https://github.com/Codecademy), [FreeCodeCamp](https://github.com/freeCodeCamp), and [Hackerrank](https://www.hackerrank.com/) -->
 
 <!--* 👯 I’m looking to collaborate with ... *coming soon*-->
